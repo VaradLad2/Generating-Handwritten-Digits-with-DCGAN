@@ -74,7 +74,11 @@ This project is built for beginners exploring GANs and leverages the MNIST datas
 
 ## **Outputs**
 - Generated images saved as `image_at_epoch_XXXX.png` during training.  
-- Visualizations of generated handwritten digits after training completion.  
+- Visualizations of generated handwritten digits after training completion.
+- ![download](https://github.com/user-attachments/assets/bb16eb0b-ed7e-4101-aa35-27d0bf9007c6)
+![1](https://github.com/user-attachments/assets/b26c0ad0-3000-44c3-a21e-0daf3ebac6b7)
+![download1](https://github.com/user-attachments/assets/05351bb7-41de-4331-8eb2-fc7b3f10d6a5)
+
 
 ---
 
